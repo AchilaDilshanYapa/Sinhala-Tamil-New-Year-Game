@@ -24,6 +24,10 @@ A fun and interactive web-based game to celebrate the Sinhala & Tamil New Year (
 - JavaScript
 - Canvas API
 
+## Live Demo
+
+Try the game here: [නිලාවක් පත්තුකරමුද?](https://achiladilshanyapa.github.io/Sinhala-Tamil-New-Year-Game/)
+
 ## Installation
 
 No installation required! Simply clone the repository and open `index.html` in your web browser:
@@ -32,6 +36,4 @@ No installation required! Simply clone the repository and open `index.html` in y
 git clone https://github.com/AchilaDilshanYapa/Sinhala-Tamil-New-Year-Game.git
 cd "happy new year"
 
-## Live Demo
 
-Try the game here: [නිලාවක් පත්තුකරමුද?](https://achiladilshanyapa.github.io/Sinhala-Tamil-New-Year-Game/)
